@@ -12,9 +12,9 @@ Optimizer, and Controller.
 - Internal components and data structers all renames from original GBS code
   base.
 - Documentation of MiGRIDS wiki and code/data links ready for public release.
-  - renamed avec modules
-  - project files structure cleaned up and renamed
-  - cleaned out internal/unused scripts and data artifacts
-- (Insert major feaures/changes) (user interface?)
-  - Plotting features
+- project files structure cleaned up and renamed
+- cleaned out internal/unused scripts and data artifacts
+- The Model was modularized to allow different controls to be used when running simulations, including user generated
+- TestScripts and sample projects were included as part of the package to provide example uses of the code and a starting point for users. A user interface is being worked on for a future release.
+
 
